@@ -1,3 +1,5 @@
+#Simple Python Project to create a slot machine
+
 import random
 
 MAX_LINES = 3
